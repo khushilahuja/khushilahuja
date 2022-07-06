@@ -1,6 +1,5 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/khushilahuja-red)]
 [![Linkedin Badge](https://img.shields.io/badge/-khushil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushil--01629954/)](https://www.linkedin.com/in/khushil-ahuja-343095235/)
 [![Website Badge](https://img.shields.io/badge/WebSite-khushil-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-khushil-yellow)](https://stackoverflow.com/users/19413168/khushil-ahuja)
